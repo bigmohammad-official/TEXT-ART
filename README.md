@@ -1,2 +1,2 @@
 # TEXT-ART
-TEXT_ART_Gen
+You can create a text art, give a word or letter and receive the text art
