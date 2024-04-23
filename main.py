@@ -1,3 +1,9 @@
+#Code by bigmohammad
+#---------------------
+#Youtube: bigmohammad
+#---------------------
+#Instagram: bigmohammad.official
+
 from art import *
 
 def text_to_art(text):
